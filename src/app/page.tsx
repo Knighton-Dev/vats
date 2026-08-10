@@ -6,7 +6,7 @@ export default function Home() {
           <h1 className="text-4xl md:text-5xl font-bold tracking-tight mb-2">
             VWs at the Springs
           </h1>
-          <p className="text-muted text-sm">2014 &ndash; 2025</p>
+          <p className="text-muted text-sm">2012 &ndash; 2026</p>
         </header>
 
         <h2 className="text-2xl md:text-3xl font-bold tracking-tight mb-8">
@@ -21,7 +21,7 @@ export default function Home() {
           </p>
 
           <p>
-            We started this whole deal in 2014 as an excuse to spend a weekend
+            We started this whole deal in 2012 as an excuse to spend a weekend
             doing Volkswagen stuff with our friends. Of course it had to have a
             name so we just went with something obvious and put out invites to
             friends and acquaintances in the local community.
@@ -90,7 +90,7 @@ export default function Home() {
       </article>
 
       <footer className="mt-16 pt-8 border-t border-border text-center text-muted text-sm max-w-2xl w-full">
-        <p>VWs at the Springs &middot; Idaho &middot; 2014&ndash;2025</p>
+        <p>VWs at the Springs &middot; Idaho &middot; 2012&ndash;2026</p>
       </footer>
     </main>
   );
